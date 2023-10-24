@@ -20,5 +20,32 @@ to see registered name
 git config --global user.name
 
 
+initialize git
+------------------
+git init
+
+
+to add files in git
+-------------------
+
+git add "file1.txt"
+
+
+to check status
+--------------
+
+git status
+
+
+
+to commit
+----------
+
+git commit -m "commit msg"
+
+
+
+
+
 
 
