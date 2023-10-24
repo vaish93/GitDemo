@@ -1,0 +1,24 @@
+To register the email
+--------------------------
+git config --global user.email "vaishalibaskar0909@gmail.com"
+
+
+to see the registered email
+----------------------------
+git config --global user.email
+
+
+
+to register name 
+-----------------
+
+git config --global user.name "vaishali-QA"
+
+
+to see registered name
+----------------------
+git config --global user.name
+
+
+
+
