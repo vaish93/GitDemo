@@ -44,6 +44,47 @@ to commit
 git commit -m "commit msg"
 
 
+git remote add origin "https://github.com/vaish93/GitDemo.git"
+
+
+git remote show origin
+
+
+git push -u origin master 
+
+
+git log 
+
+
+git -- help
+
+
+To create brach
+----------------
+git branch branchname
+
+
+To see all branches
+--------------------
+git branch
+
+
+To switch branch
+---------------------
+git checkout branchname
+
+
+step1 - create branch - git branch branchname
+step2 - stepout branch - git checkout branchname
+
+step3 - Make some changes in your project
+        Do 
+	add - git add "file2.txt"   
+        commit - git commit -m "commit msg" 
+	push git push -u origin Accounts
+
+
+
 
 
 
